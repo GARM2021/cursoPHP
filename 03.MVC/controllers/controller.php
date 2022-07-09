@@ -3,7 +3,7 @@
     {
         public function plantilla()
         {
-          include "views/template.php";;
+          include "views/template.php";
           
         }
         
